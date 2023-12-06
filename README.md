@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Jonny
-- 👀 I’m interested in having in impact beyond my key strokes. 
+- 👀 I'm passionate about making a meaningful impact beyond my keystrokes.
 - 🌱 I’m currently learning MERN
 - 💞️ I’m looking to collaborate on anything and everything. Always ready to add a new tool to my tool box.
 - 📫 Connect with me on Linked in! 
